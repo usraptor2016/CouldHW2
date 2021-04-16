@@ -2,6 +2,7 @@ import json
 import logging
 import boto3
 import time
+#######
 # from requests_aws4auth import AWS4Auth
 from elasticsearch import Elasticsearch, RequestsHttpConnection
 import urllib.parse
